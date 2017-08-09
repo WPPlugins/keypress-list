@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Keypress-list 0.2\n"
+"POT-Creation-Date: 2013-10-21 11:45-0500\n"
+"PO-Revision-Date: 2013-10-21 12:38-0500\n"
+"Last-Translator: \n"
+"Language-Team: Jud Alex <contact@jud-alex.com>\n"
+"Language: Deutsch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../keypress-list/admin/kprl_admin.php:24
+#, fuzzy
+msgid "Options saved."
+msgstr "Optionen gespeichert"
+
+#: ../keypress-list/admin/kprl_admin.php:41
+msgid "Keypress-list"
+msgstr "Keypress-list"
+
+#: ../keypress-list/admin/kprl_admin.php:71
+#, fuzzy
+msgid ""
+"To activate the shortcup listener, in Front-Office, user must tip \"Shift\" "
+"and \"S\" keys simultaneously, then tip recorded shortcuts."
+msgstr ""
+"Um die Hörer Verknüpfung im User-Bereich zu aktivieren, werden Sie mit der "
+"Taste \"Shift \" und \"S \" gleichzeitig vor dem Betreten Verknüpfungen "
+"aufgezeichnet."
+
+#: ../keypress-list/admin/kprl_admin.php:76
+#, fuzzy
+msgid "Label :"
+msgstr "Benennung :"
+
+#: ../keypress-list/admin/kprl_admin.php:81
+#, fuzzy
+msgid "Code :"
+msgstr "Code :"
+
+#: ../keypress-list/admin/kprl_admin.php:87
+#, fuzzy
+msgid "Action :"
+msgstr "Handlung :"
+
+#: ../keypress-list/admin/kprl_admin.php:87
+#, fuzzy
+msgid "You have already install this plugin"
+msgstr "Sie haben dieses Plugin installiert"
+
+#: ../keypress-list/admin/kprl_admin.php:87
+#, fuzzy
+msgid "For multiline javascripts or functions, use a Javascript compressor"
+msgstr ""
+"Für mehrzeilige oder JavaScript / jQuery Funktionen Skripte, benutzen Sie "
+"einen JavaScript-Kompressor."
+
+#: ../keypress-list/admin/kprl_admin.php:93
+#, fuzzy
+msgid "Add"
+msgstr "Hinzufügen"
+
+#: ../keypress-list/admin/kprl_admin.php:94
+#, fuzzy
+msgid "Modify"
+msgstr "Bearbeiten"
+
+#: ../keypress-list/admin/kprl_admin.php:100
+#: ../keypress-list/admin/kprl_admin.php:115
+#, fuzzy
+msgid "Label"
+msgstr "Benennung"
+
+#: ../keypress-list/admin/kprl_admin.php:101
+#: ../keypress-list/admin/kprl_admin.php:116
+#, fuzzy
+msgid "Code"
+msgstr "Code"
+
+#: ../keypress-list/admin/kprl_admin.php:102
+#: ../keypress-list/admin/kprl_admin.php:117
+#, fuzzy
+msgid "Action"
+msgstr "Handlung"
+
+#: ../keypress-list/admin/kprl_admin.php:109
+#, fuzzy
+msgid "Archive"
+msgstr "Archiv"
+
+#: ../keypress-list/admin/kprl_admin.php:124
+#, fuzzy
+msgid "Delete"
+msgstr "Entfernen"
+
+#: ../keypress-list/admin/kprl_admin.php:125
+#, fuzzy
+msgid "Activate"
+msgstr "Aktivieren"
+
+#: ../keypress-list/admin/kprl_admin.php:136
+#, fuzzy
+msgid "Update Options"
+msgstr "Optionen aktualisiert "
+
+#~ msgid "Label :&nbsp;&nbsp;&nbsp;"
+#~ msgstr "Libellé :"
+
+#~ msgid "Code :&nbsp;&nbsp;&nbsp;"
+#~ msgstr "Code :&nbsp;&nbsp;&nbsp;"
+
+#~ msgid "Action :&nbsp;&nbsp;"
+#~ msgstr "Action :&nbsp;&nbsp;"
+
+#~ msgid ""
+#~ "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
+#~ "&nbsp;&nbsp;&nbsp;&nbsp;For multiline javascripts or functions, use a "
+#~ "Javascript compressor"
+#~ msgstr ""
+#~ "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
+#~ "&nbsp;&nbsp;&nbsp;&nbsp;Pour des scripts multiligne ou des fonctions "
+#~ "JavaScript / jQuery, utilisés un compresseur Javascript."
+
+#~ msgid ""
+#~ "Keypress-list is a plug-in that allow user to launch JavaScript/jQuery "
+#~ "codes or functions by using keyboard shortcut's.<br> In admin section you "
+#~ "can specify what for actions does it launch with what for short-cut. <br> "
+#~ "To activate the shortcup listener, in Front-Office, user must tip \"Shift"
+#~ "\" and \"S\" keys simultaneously, then tip the shortcut. <br> Visit the "
+#~ "author <a href=\"http://jud-alex.com/web/keypress-list/\" target=\"_blank"
+#~ "\">section\\'site</a>. Thanks to <a> href=\"http://dmauro.github.io/"
+#~ "Keypress/\" target=\"_blank\">dmauro</a> for his library."
+#~ msgstr ""
+#~ "Keypress-list est un plugin qui autorise l'utilisateur à lancer des "
+#~ "scripts JavaScript/jQuery voir des fonctions, en utilisant les touches de "
+#~ "son clavier. Dans la section administrateur, vous pouvez spécifier "
+#~ "quelles action réaliser, grâce à quelles touches. Pour activer l'écouteur "
+#~ "de raccourci, dans la zone de l'utilisateur, vous serez amené à utiliser "
+#~ "les touches \"Shift\" et \"S\" simultanément avant d'entrer les "
+#~ "raccourcis enregistrés. Visitez la <a href=\"http://jud-alex.com/web/"
+#~ "keypress-list/\" target=\"_blank\">section</a> du site de l'auteur. Merci "
+#~ "à <a> href=\"http://dmauro.github.io/Keypress/\" target=\"_blank"
+#~ "\">dmauro</a> pour la librarie qu'il a créé."
